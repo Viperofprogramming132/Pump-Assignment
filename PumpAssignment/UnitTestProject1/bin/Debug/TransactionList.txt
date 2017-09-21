@@ -1,0 +1,17 @@
+Car|40|9
+Car|31|6
+Car|40|3
+Car|37|1
+Van|63|7
+Van|69|8
+Van|64|5
+Van|67|2
+Van|67|9
+Van|66|7
+Van|77|8
+HGV|145|4
+Van|67|1
+Van|74|2
+Van|80|3
+Car|35|5
+Car|0|1
